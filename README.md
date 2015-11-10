@@ -1,2 +1,4 @@
-# new_profile
-See my current profile (cristianoliveira)[https://github.com/cristianoliveira]
+# New Profile
+Some things happened then I was forced to create new profile.
+
+See my current profile https://github.com/cristianoliveira
